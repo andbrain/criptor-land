@@ -3,13 +3,12 @@ Criptador/Desencriptador Land usando pilhas
 
 ## Created by:
 - @andbrain
-- @laizams
 
 ## Installation:
 g++ -I. *.cpp -o criptor
 
 ## How to use:
-- To encrypt and decrypt, you have to run twice like:
+- To encrypt and decrypt, you have to run like:
 	1. Encrypt:
     > ./criptor ola mundo
     > ndo muola
